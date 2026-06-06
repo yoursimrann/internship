@@ -2,13 +2,14 @@
 
 This repository contains Python programs and practice exercises completed during my internship.
 
-## Topics
+```## Topics
 - Python Basics
 - Strings
 - Lists
 - Sets
 - Conditions
 - Loops
+```
 
 # File
 - internship.ipynb
